@@ -7,7 +7,9 @@ function App() {
 
   return (
     <>
-      <Homepage />
+      <div className='App font-opensans'>
+        <Homepage />
+      </div>
     </>
   )
 }
